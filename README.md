@@ -21,3 +21,10 @@ Convert yaml file to a SQLite database:
 Enter:
 
      datasette chapters.db
+
+## Install plugins for geo and maps
+
+```
+datasette install datasette-cluster-map
+datasette install datasette-geojson
+```
