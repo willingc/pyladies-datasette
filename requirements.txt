@@ -1,3 +1,4 @@
 datasette
+datasette-publish-vercel
 sqlite-utils
 yaml-to-sqlite

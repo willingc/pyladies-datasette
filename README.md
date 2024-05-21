@@ -1,5 +1,7 @@
 # pyladies-datasette
 
+**Live Site: https://chapters-project.vercel.app/chapters/sites**
+
 ## Installation
 
 ```
@@ -33,3 +35,6 @@ Enter:
 
      datasette chapters.db
 
+## Publish to Vercel
+
+Using the datasette publish plugin for Vercel
